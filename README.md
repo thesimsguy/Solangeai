@@ -1,4 +1,4 @@
-[!Banner](./public/banner.png)
+![Banner](./public/banner.png)
 
 # Bolt.new: AI-Powered Full-Stack Web Development in the Browser
 
